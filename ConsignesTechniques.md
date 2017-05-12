@@ -1,4 +1,5 @@
 # M2104 (Bases de la conception orientée objet)
+* Date de rendu : **lundi 22 mai 2017** à **23h59**
 * Utilisation d'UML comme langage de modélisation est d'un logiciel de modélisation (à l'occurrence StarUML)
 * Fournir le diagramme de cas d'utilisation (Use Case) complet avec les scénarios nominaux et alternatifs pour chaque cas d'utilisation significatif
 * Fournir le diagramme de classes complet
