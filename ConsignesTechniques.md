@@ -1,9 +1,9 @@
 # M2104 (Bases de la conception orientée objet)
-* Date de rendu : **lundi 22 mai 2017** à **23h59**. Aucun retard ne sera accepté.
-* Utilisation d'UML comme langage de modélisation est d'un logiciel de modélisation (à l'occurrence StarUML)
+* Date de rendu : **lundi 23 avril 2018** à **23h59**. Aucun retard ne sera accepté.
+* Utilisation d'UML comme langage de modélisation est d'un logiciel de modélisation (en l'occurrence StarUML)
 * Fournir le diagramme de cas d'utilisation (Use Case) complet avec les scénarios nominaux et alternatifs pour chaque cas d'utilisation significatif
 * Fournir le diagramme de classes complet
-* Fournir le diagramme de séquences pour les scénarios des cas d'utilisation significatifs
+* Fournir le diagramme de séquences pour les scénarios des cas d'utilisation _significatifs_
 
 # M2103 (Bases de la programmation orientée objet)
 * Utilisation de Java comme langage de programmation et d'une IDE adaptée (Eclipse ou InteliJ IDEA)
