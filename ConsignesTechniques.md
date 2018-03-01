@@ -6,6 +6,7 @@
 * Fournir le diagramme de séquences pour les scénarios des cas d'utilisation _significatifs_
 
 # M2103 (Bases de la programmation orientée objet)
+* Date de rendu : **vendredi 15 juin 2018** à **23h59**. Aucun retard ne sera accepté.
 * Utilisation de Java comme langage de programmation et d'une IDE adaptée (Eclipse ou InteliJ IDEA)
 * Utilisation d'un gestionnaire de version (Git)
 * Fourniture des codes sources de toutes les classes (les programmes) écrites
@@ -16,7 +17,10 @@
   * Documentation HTML
 
 # M2105 (Introduction aux interfaces homme-machine)
+* Date de rendu : **vendredi 15 juin 2018** à **23h59**. Aucun retard ne sera accepté.
 * L'interface homme-machine (IHM) doit être faite en Java (en utilisant la bibliothéque JavaFX)
 * L'IHM représente la continuité du travail cadré par les parties M2103 et M2104. Elle est à réaliser en dernier.
 * Les vues(en FXML) devront être séparées des contrôleurs
 * L'application n'a pas à être pleinnement fonctionnelle mais l'enchainement des écrans devra être cohérent avec les scénarios décrits pour le module M2104.
+* Le dépot github devra être un projet Maven correctement construit et fonctionnel sans modification
+* Les fichiers générés par l'IDE ne devront surtout pas être importé sur git
