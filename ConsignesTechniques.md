@@ -17,5 +17,6 @@
 
 # M2105 (Introduction aux interfaces homme-machine)
 * L'interface homme-machine (IHM) doit être faite en Java (en utilisant la bibliothéque JavaFX)
-* L'IHM représente la continuité du travail cadré par les parties M2103 et M2104. Elle est à réaliser donc en dernier.
-* ...
+* L'IHM représente la continuité du travail cadré par les parties M2103 et M2104. Elle est à réaliser en dernier.
+* Les vues(en FXML) devront être séparées des contrôleurs
+* L'application n'a pas à être pleinnement fonctionnelle mais l'enchainement des écrans devra être cohérent avec les scénarios décrits pour le module M2104.
